@@ -10,10 +10,10 @@
 locale                   : "en-US"
 title                    : "About Us"
 title_separator          : "-"
-name                     : ASPA-network "Your Name"
+name                     : ASPA-network
 description              : &description "personal description"
-url                      : https://aspa-network.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://aspa-network.github.io                     # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : ""                                                 # the subpath of your site, e.g. "/blog"
 repository               : "aspa-network/aspa-network.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -22,13 +22,13 @@ repository               : "aspa-network/aspa-network.github.io"
 author:
   # Biographic information
   avatar           : "logo_new.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "ASPA-network"
+  pronouns         :                                                          # example: "she/her"  
+  bio              : "An “AI to earn” ecosystem"
+  location         : "London, UK"
+  employer         : ""
+  uri              : "https://x.com/aspa_xagent"                              # URL
+  email            : "admin@aspa.life" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
