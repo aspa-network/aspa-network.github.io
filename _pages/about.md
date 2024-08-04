@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---                                                                                    
 ## Pitch Deck:
-aspa.network builds an “AI to earn” ecosystem with agent economy and reward back to the community for contribution in data, tools, alpha strategy and liquidity. Here is our [Pitch Deck](https://docsend.com/view/vq4ymdpy8ctpnr5i).
+aspa.network builds an “AI to earn” ecosystem with agent economy and reward back to the community for contribution in data, tools, alpha strategy and liquidity. Here is our [Pitch Deck](https://docsend.com/view/crdmmpy3dkefrz6j).
 
 ## aspa.network Tokenomics:
 
